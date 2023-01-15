@@ -2,7 +2,7 @@
 This is the repository for Clarissa Audrey Fabiola's Algorithm and Programming final project.
 
 ## ✋✊ Game Description 🐧💣
-Catch the penguin is a fun and engaging game that utilizes hand tracking technology through a webcam. Players use their hand to capture penguins while avoiding bombs on the screen. The objective is to score the highest points possible within the limited time of the game. With an increasing difficulty, players will have to be quick and strategic to beat the game. Give it a try and see how many penguins you can catch!
+Catch the Penguin is a fun and engaging game that utilizes hand tracking technology through a webcam. Players use their hand to capture penguins while avoiding bombs on the screen. The objective is to score the highest points possible within the limited time of the game. With an increasing difficulty, players will have to be quick and strategic to beat the game. Give it a try and see how many penguins you can catch!
 
 ## 🎥 Demo Video
 Video demonstration can be accessed [here](https://www.youtube.com/watch?v=MJOpq9aGABI).
